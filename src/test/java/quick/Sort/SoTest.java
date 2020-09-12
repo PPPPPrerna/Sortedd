@@ -40,6 +40,12 @@ public class SoTest extends Base{
 		
 		System.out.println("Colle");
 		
+		System.out.println("heheheh");
+		
+		System.out.println("heheheh");
+		System.out.println("yeah");
+		System.out.println("Pagal");
+		
 		//obi.screen();
 
 	}
