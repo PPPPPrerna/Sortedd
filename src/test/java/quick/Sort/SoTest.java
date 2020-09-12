@@ -34,9 +34,13 @@ public class SoTest extends Base{
 		
 		Obj obi = new Obj(driver);
 		
-		obi.cal();			
+		obi.cal();	
 		
-		obi.screen();
+		System.out.println("Nice joke");
+		
+		System.out.println("Colle");
+		
+		//obi.screen();
 
 	}
 }
