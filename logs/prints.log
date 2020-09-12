@@ -1,0 +1,6 @@
+2020-09-01 12:11:24,731 INFO q.S.SoTest [main] [Apple, Carrot, Orange, Potato, Tomato, Mango]
+2020-09-01 12:11:24,961 INFO q.S.SoTest [main] Changes values
+2020-09-01 12:11:24,961 INFO q.S.SoTest [main] [Apple, Carrot, Mango, Orange, Potato, Tomato]
+2020-09-01 12:41:42,427 INFO q.S.SoTest [main] [Apple, Carrot, Orange, Potato, Tomato, Mango]
+2020-09-01 12:41:42,449 INFO q.S.SoTest [main] Changes values
+2020-09-01 12:41:42,449 INFO q.S.SoTest [main] [Apple, Carrot, Mango, Orange, Potato, Tomato]
